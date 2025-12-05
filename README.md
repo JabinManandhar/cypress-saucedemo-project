@@ -5,7 +5,6 @@ SauceDemo Website URL: https://www.saucedemo.com
 ## Objective
 
 This project is an E2E automation suite for testing the SauceDemo website using **Cypress**, using a hybrid approach. (POM + Action-Oriented Approach + Fixtures + Custom Commands).
-![Login and checkout ](https://github.com/user-attachments/assets/6151bea4-aefa-4c45-86b4-f44df5fe0fc0)
 
 ### 📁Project File Structure
 
@@ -70,3 +69,6 @@ This project is an E2E automation suite for testing the SauceDemo website using 
    `npm install`
 4. Open Cypress Test Runner
    `npx cypress open`
+
+## Preview
+![Login and checkout ](https://github.com/user-attachments/assets/6151bea4-aefa-4c45-86b4-f44df5fe0fc0)
